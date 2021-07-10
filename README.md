@@ -1,6 +1,6 @@
 # [namedtuple](https://docs.python.org/3/library/collections.html#collections.namedtuple)
 
-## Challenges:
+## Assignment:
 
 - Use the Faker library to get 10000 random profiles. Using namedtuple, calculate the largest blood type, mean-current_location, oldest_person_age, and average age 
 
